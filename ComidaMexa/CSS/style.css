@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {margin: 0; padding: 0;}
+
+body {background-color: lightgray;}
+
+.header {background-color: palevioletred; color: antiquewhite; text-align: center; }
+.footer {background-color: palevioletred; color: antiquewhite; text-align: center; }
+
+.primero {background-color: mediumvioletred;}
+.segundo {background-color: violet; }
+
+
+
+
+
